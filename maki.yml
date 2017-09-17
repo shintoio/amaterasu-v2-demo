@@ -11,6 +11,6 @@ flow:
     - name: step2
       runner:
           group: spark
-          type: scala 
-      file: file2.scala
+          type: pyspark
+      file: file2.py
 ...
