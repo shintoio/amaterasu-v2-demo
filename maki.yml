@@ -17,6 +17,6 @@ flow:
           name: error
           runner: 
               group: spark
-              type: scala
+              type: scala  
           file: error.scala
 ...
