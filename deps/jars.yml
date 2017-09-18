@@ -5,6 +5,6 @@ repos:
     url: http://central.maven.org/maven2/
 artifacts:  
   - groupId: com.flyberrycapital
-    artifactId: scala-slack_2.10
+    artifactId: scala-slack_2.11
     version: 0.3.0
 ...
