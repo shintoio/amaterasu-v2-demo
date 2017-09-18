@@ -13,4 +13,10 @@ flow:
           group: spark
           type: pyspark
       file: file2.py
+      error:
+          name: error
+          runner: 
+              group: spark
+              type: scala
+          file: error.scala
 ...
